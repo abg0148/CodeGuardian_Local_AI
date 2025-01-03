@@ -14,7 +14,5 @@ Unlike cloud-based tools, CodeGuardian operates entirely offline, ensuring secur
 With its energy-efficient design, CodeGuardian is optimized for use on resource-constrained platforms, making it especially useful for mobile and IoT developers.
 
 ## Contributors
-- Alper Mumcular
-- Abhinav Gupta
 - Dhairyasheel Patil
 - Sahil Sarnaik
