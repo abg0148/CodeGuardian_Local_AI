@@ -24,6 +24,12 @@
 
 ## What is CodeGuardian?
 
+## Demo
+
+Watch the YouTube demo of CodeGuardian in action:
+
+[![CodeGuardian Demo](https://img.youtube.com/vi/Aky-bneXbMw/0.jpg)](https://www.youtube.com/watch?v=Aky-bneXbMw)
+
 **CodeGuardian** is a real-time, on-device AI-powered tool designed for comprehensive code security. It eliminates the limitations of traditional cloud-based vulnerability scanners by providing a local, in-depth scan of your codebase. CodeGuardian identifies security vulnerabilities and offers actionable remediation suggestions directly within your development environment.
 
 Built using LM Studio's on-device AI, CodeGuardian ensures developers get instant feedback on their code, reducing the time between vulnerability introduction and remediation. This approach is ideal for industries with stringent data security requirements, such as defense, healthcare, and critical infrastructure, where cloud solutions may not be viable.
@@ -130,12 +136,6 @@ The following individuals have contributed to the development of CodeGuardian:
 
 We appreciate everyone's efforts in making this project a success!
 
----
 
-## Demo
-
-Watch the YouTube demo of CodeGuardian in action:
-
-[![CodeGuardian Demo](https://img.youtube.com/vi/Aky-bneXbMw/0.jpg)](https://www.youtube.com/watch?v=Aky-bneXbMw)
 
 ---
