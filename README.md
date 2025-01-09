@@ -136,7 +136,6 @@ We appreciate everyone's efforts in making this project a success!
 
 Watch the YouTube demo of CodeGuardian in action:
 
-[![CodeGuardian Demo]](https://www.youtube.com/watch?v=Aky-bneXbMw)
+[![CodeGuardian Demo](https://img.youtube.com/vi/Aky-bneXbMw/0.jpg)](https://www.youtube.com/watch?v=Aky-bneXbMw)
 
 ---
-
