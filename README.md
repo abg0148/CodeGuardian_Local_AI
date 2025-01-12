@@ -128,6 +128,12 @@ Your feedback helps us improve CodeGuardian!
 
 The following individuals have contributed to the development of CodeGuardian:
 
+- **Abhinav Gupta**
+  GitHub: [AbhinavGupta](https://github.com/abg0148)
+
+- Alper Mumcular
+  Github: [Alper Mumcular](https://github.com/AlperMumcular/)
+
 - **Dhairyasheel Patil**  
   GitHub: [DhairyaPatil](https://github.com/dpraj007)
 
